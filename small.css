@@ -1,0 +1,17 @@
+.container{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+aside.left,aside.right{
+  text-align: center;
+  float:inherit; 
+}
+.fitting img{
+	border-radius: 0;
+}
+aside.mapAlign{
+
+	width: 100%;
+}
